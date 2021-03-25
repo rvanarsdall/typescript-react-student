@@ -1,5 +1,5 @@
 import React from "react";
-import FunctionalClickCounter from "./component/FunctionalClickCounter";
+import FunctionalClickCounter from "./components/FunctionalClickCounter";
 
 function App() {
   return (
